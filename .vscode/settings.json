@@ -1,0 +1,8 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.project.sourcePaths": ["Java Files"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "Java Files/lib/**/*.jar"
+  ]
+}
